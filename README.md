@@ -2,7 +2,7 @@ Welcome to my GitHub profile! I’m **Tirivashe**, a passionate and innovative s
 
 ## About Me ✨
 
-Driven by curiosity and creativity, I’m dedicated to exploring the ever-evolving landscape of technology. My expertise lies in both frontend and backend development, mobile app creation, and blockchain technology. I thrive on solving complex challenges and am committed to delivering high-quality, scalable solutions that make a difference.
+Driven by curiosity and a thirst to learn, I’m dedicated to exploring the ever-evolving landscape of technology. My expertise lies in both frontend and backend development, mobile app creation, and venturing into blockchain technology. I enjoy good challenges and am committed to delivering high-quality, scalable solutions that make a difference.
 
 ## Technical Skills 🛠️
 
